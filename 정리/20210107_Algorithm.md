@@ -37,15 +37,14 @@
 
 ## 2. To Do
 ### 1. 지난 시간 틀렸거나, 더 좋은 알고리즘이 있으면 찾아오기<br>
-<br>
-### 2. 문제 풀어오기<br>
+### 2. 문제 풀어오기
 
-	실버4
+	//난이도 실버4
 	1. 백준 1978 <https://www.acmicpc.net/problem/1978>
 	2. 백준 2851 <https://www.acmicpc.net/problem/2851>
 	
-	실버2
+	//난이도 실버2
 	3. 백준 4948 <https://www.acmicpc.net/problem/4948>
-	실버1
+	//난이도 실버1
 	4. 백준 9020 <https://www.acmicpc.net/problem/9020>
 
